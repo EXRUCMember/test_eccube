@@ -25,3 +25,4 @@
         <img src="<!--{$TPL_URLPATH}-->img/banner/bnr_top_main.jpg" alt="Details here" id="bnr_top_main" name="bnr_top_main" />
     </a>
 </div>
+<p>Hello World</p>
