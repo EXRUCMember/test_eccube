@@ -164,3 +164,6 @@ C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(87):
 C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(155): LC_Page_Products_List->doDefault
 C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(559): SC_Response->sendRedirect
 C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
+2014/12/22 04:55:56 [/test_eccube/html/user_data/testpage.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "C:\wamp\www\test_eccube\html/../data/Smarty/templates/default_en-US/.tpl" on [C:\wamp\www\test_eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from 127.0.0.1
+2014/12/22 04:55:59 [/test_eccube/html/user_data/testpage.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "C:\wamp\www\test_eccube\html/../data/Smarty/templates/default_en-US/.tpl" on [C:\wamp\www\test_eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from 127.0.0.1
+2014/12/22 04:56:23 [/test_eccube/html/user_data/testpage.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "C:\wamp\www\test_eccube\html/../data/Smarty/templates/default_en-US/.tpl" on [C:\wamp\www\test_eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from 127.0.0.1
