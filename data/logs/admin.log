@@ -61,3 +61,8 @@
 2014/12/22 03:48:37 [/test_eccube/html/admin/design/index.php] access : user=ectest auth=0 sid=mhvv5c96shm1ld4r4fcv5opca6 from 127.0.0.1
 2014/12/22 03:48:48 [/test_eccube/html/admin/logout.php] access : user=ectest auth=0 sid=mhvv5c96shm1ld4r4fcv5opca6 from 127.0.0.1
 2014/12/22 03:48:48 [/test_eccube/html/admin/logout.php] logout : user=ectest auth=0 sid=mhvv5c96shm1ld4r4fcv5opca6 from 127.0.0.1
+2014/12/22 03:50:17 [/test_eccube/html/admin/index.php] access error. from 127.0.0.1
+2014/12/22 03:50:17 [/test_eccube/html/admin/index.php] login: user=ectest(2) auth=0 lastlogin=2014-12-22 03:48:33 sid= from 127.0.0.1
+2014/12/22 03:50:17 [/test_eccube/html/admin/home.php] access : user=ectest auth=0 sid=mhvv5c96shm1ld4r4fcv5opca6 from 127.0.0.1
+2014/12/22 03:50:29 [/test_eccube/html/admin/logout.php] access : user=ectest auth=0 sid=mhvv5c96shm1ld4r4fcv5opca6 from 127.0.0.1
+2014/12/22 03:50:29 [/test_eccube/html/admin/logout.php] logout : user=ectest auth=0 sid=mhvv5c96shm1ld4r4fcv5opca6 from 127.0.0.1
