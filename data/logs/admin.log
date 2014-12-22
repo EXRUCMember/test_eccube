@@ -1,0 +1,6 @@
+2014/12/22 04:17:21 [/test_eccube/html/admin/index.php] access error. from 127.0.0.1
+2014/12/22 04:17:21 [/test_eccube/html/admin/index.php] login: user=ectest(2) auth=0 lastlogin=2014-12-22 02:07:36 sid= from 127.0.0.1
+2014/12/22 04:17:21 [/test_eccube/html/admin/home.php] access : user=ectest auth=0 sid=fdi70ao93qntoir7k903r54il6 from 127.0.0.1
+2014/12/22 04:17:36 [/test_eccube/html/admin/design/index.php] access : user=ectest auth=0 sid=fdi70ao93qntoir7k903r54il6 from 127.0.0.1
+2014/12/22 04:18:00 [/test_eccube/html/admin/design/index.php] access : user=ectest auth=0 sid=fdi70ao93qntoir7k903r54il6 from 127.0.0.1
+2014/12/22 04:18:00 [/test_eccube/html/admin/design/index.php] access : user=ectest auth=0 sid=fdi70ao93qntoir7k903r54il6 from 127.0.0.1
