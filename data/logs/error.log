@@ -148,3 +148,19 @@ customer_id =
 customer_id = 
 2014/12/22 03:41:37 [/test_eccube/html/index.php] Fatal error(E_ERROR): Maximum function nesting level of '100' reached, aborting! on [C:\wamp\www\test_eccube\data\module\PEAR.php(252)] from 127.0.0.1
 customer_id = 
+2014/12/22 04:44:55 [/test_eccube/html/products/list.php] Fatal error(E_USER_ERROR):  on [C:\wamp\www\test_eccube\data\class\SC_Response.php(182)] from 192.168.1.109
+customer_id = 
+C:\wamp\www\test_eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+C:\wamp\www\test_eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(87): LC_Page_Products_List->action
+C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(155): LC_Page_Products_List->doDefault
+C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(559): SC_Response->sendRedirect
+C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
+2014/12/22 04:44:59 [/test_eccube/html/products/list.php] Fatal error(E_USER_ERROR):  on [C:\wamp\www\test_eccube\data\class\SC_Response.php(182)] from 192.168.1.109
+customer_id = 
+C:\wamp\www\test_eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+C:\wamp\www\test_eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(87): LC_Page_Products_List->action
+C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(155): LC_Page_Products_List->doDefault
+C:\wamp\www\test_eccube\data\class\pages\products\LC_Page_Products_List.php(559): SC_Response->sendRedirect
+C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
