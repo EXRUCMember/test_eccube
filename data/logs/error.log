@@ -1,0 +1,28 @@
+2014/12/22 01:50:23 [/test_eccube/html/admin/index.php] Fatal error(E_USER_ERROR):  on [C:\wamp\www\test_eccube\data\class\SC_Response.php(182)] from 127.0.0.1
+login_id = ectest(0)[fdi70ao93qntoir7k903r54il6]
+C:\wamp\www\test_eccube\html\admin\index.php(33): LC_Page_Admin_Index_Ex->process
+C:\wamp\www\test_eccube\data\class_extends\page_extends\admin\LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(88): SC_Response->sendRedirect
+C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
+2014/12/22 01:50:36 [/test_eccube/html/admin/index.php] Fatal error(E_USER_ERROR):  on [C:\wamp\www\test_eccube\data\class\SC_Response.php(182)] from 127.0.0.1
+login_id = ectest(0)[fdi70ao93qntoir7k903r54il6]
+C:\wamp\www\test_eccube\html\admin\index.php(33): LC_Page_Admin_Index_Ex->process
+C:\wamp\www\test_eccube\data\class_extends\page_extends\admin\LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(88): SC_Response->sendRedirect
+C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
+2014/12/22 01:50:56 [/test_eccube/html/admin/index.php] Fatal error(E_USER_ERROR):  on [C:\wamp\www\test_eccube\data\class\SC_Response.php(182)] from 127.0.0.1
+login_id = ectest(0)[fdi70ao93qntoir7k903r54il6]
+C:\wamp\www\test_eccube\html\admin\index.php(33): LC_Page_Admin_Index_Ex->process
+C:\wamp\www\test_eccube\data\class_extends\page_extends\admin\LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(88): SC_Response->sendRedirect
+C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
+2014/12/22 01:51:38 [/test_eccube/html/admin/index.php] Fatal error(E_USER_ERROR):  on [C:\wamp\www\test_eccube\data\class\SC_Response.php(182)] from 127.0.0.1
+login_id = ectest(0)[fdi70ao93qntoir7k903r54il6]
+C:\wamp\www\test_eccube\html\admin\index.php(33): LC_Page_Admin_Index_Ex->process
+C:\wamp\www\test_eccube\data\class_extends\page_extends\admin\LC_Page_Admin_Index_Ex.php(56): LC_Page_Admin_Index->process
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(56): LC_Page_Admin_Index->action
+C:\wamp\www\test_eccube\data\class\pages\admin\LC_Page_Admin_Index.php(88): SC_Response->sendRedirect
+C:\wamp\www\test_eccube\data\class\SC_Response.php(182): trigger_error
